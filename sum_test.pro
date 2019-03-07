@@ -6,5 +6,4 @@ CONFIG -= qt
 SOURCES += \
         main.cpp
 
-HEADERS += \
-    sum.h
+HEADERS +=
